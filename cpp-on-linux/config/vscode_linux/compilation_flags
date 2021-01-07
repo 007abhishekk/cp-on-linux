@@ -1,0 +1,1 @@
+-g++ -std=c++17 -o out program.cpp -O3 -g3 -Wall -Wextra -Wconversion -DONLINE_JUDGE -D_GLIBCXX_DEBUG -fsanitize=undefined -ftrapv

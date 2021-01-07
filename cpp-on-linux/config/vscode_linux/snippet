@@ -1,0 +1,42 @@
+{
+    "": {
+	"prefix": "",
+	"body": [
+		"/*",
+		"* author: robosapien",	
+		// "* title: $TM_FILENAME",
+		"* created: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+		"*/",
+		"#include<bits/stdc++.h>",
+		"using namespace std;",
+		"#define bs ios::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)",
+		"#define ll long long int",
+		"#define pb push_back",
+		"#define all(x) x.begin(),x.end()",
+		"#define ff first",
+		"#define ss second",
+		"#define pii pair<int,int>",
+		"#define sz(x) ((int)x.size())",
+		"#define rep(i,l,r) for(int i=l; i<r; ++i)",
+		"#define rrep(i,r,l) for(int i=r; i>=l; --i)",
+		"",
+		"void solve(){",
+		"    ",
+		"}",
+		"",
+		"int main()",
+		"{",
+		"    bs;",
+		"    int t = 1; ",
+		"    // cin >> t;",
+		"    while(t--){",
+		"       solve(); ",
+		"    }",
+		"    #ifdef LOCAL_DEFINE",
+		"    cerr << \"Time elapsed: \" << 1.0 * clock() / CLOCKS_PER_SEC << \" s.\\n\";",
+		"    #endif",
+		"}"
+	],
+	"description": ""
+  }
+}
